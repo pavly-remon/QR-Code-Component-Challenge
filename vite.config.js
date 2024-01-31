@@ -6,9 +6,9 @@ import path from 'path';
 export default defineConfig({
     plugins: [react()],
     resolve: {
-        alias: {
-            "@": path.resolve(__dirname, "./src"),
-            "@tests": path.resolve(__dirname, "./tests")
-        }
-    }
+        alias: [
+            // eslint-disable-next-line no-undef
+            {find: '@', replacement: path.resolve(__dirname, 'src')},
+        ],
+    },
 })
