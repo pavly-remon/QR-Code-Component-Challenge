@@ -1,11 +1,12 @@
 import './App.css'
+import QRComponent from "./Components/QRComponent/QRComponent.jsx";
 
 function App() {
 
     return (
-        <>
-            <h1 className="text-3xl">Front-End Mentor Challenges</h1>
-        </>
+        <div id="app">
+            <QRComponent/>
+        </div>
     )
 }
 
