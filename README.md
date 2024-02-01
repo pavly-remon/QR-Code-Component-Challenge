@@ -32,8 +32,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Built with
 
 - Mobile-first workflow
-- [React](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) - Build Tool
+- [React](https://reactjs.org/) - JS Library
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework packed with classes
 
 
 
