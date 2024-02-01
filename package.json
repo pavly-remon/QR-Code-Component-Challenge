@@ -2,6 +2,7 @@
   "name": "frontend-mentor",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://pavly-remon.github.io/front-end_mentor_challenges/",
   "type": "module",
   "scripts": {
     "dev": "vite",
