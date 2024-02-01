@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [Github Repo](https://github.com/pavly-remon/qr-code-component-challenge)
-- Live Site URL: [Live Site](https://pavly-remon.github.io/qr-code-component-challenge/)
+- Solution URL: [Github Repo](https://github.com/pavly-remon/QR-Code-Component-Challenge)
+- Live Site URL: [Live Site](https://pavly-remon.github.io/QR-Code-Component-Challenge/)
 
 
 ## Built with
