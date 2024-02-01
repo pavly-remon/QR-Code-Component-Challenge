@@ -5,6 +5,7 @@ import path from 'path';
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [react()],
+    base: `/dist/`,
     resolve: {
         alias: [
             // eslint-disable-next-line no-undef
